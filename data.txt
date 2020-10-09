@@ -1,0 +1,192 @@
+Account Type:	Basic
+Account Number:	410548644
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+Account Type:	basic
+Account Number:	97337956
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+Account Type:	basic
+Account Number:	97337956
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+Account Type:	Advanced
+Account Number:	98049604
+Account Holder:	Carmen Rodriguez
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+Account Type:	basic
+Account Number:	102495376
+Account Holder:	niall hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	102495376
+Account Holder:	niall hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	102697956
+Account Holder:	carmen rodriguex
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	541772176
+Account Holder:	Niall hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	580761801
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	648568089
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	668015716
+Account Holder:	niall hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	686859264
+Account Holder:	niall hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	714546361
+Account Holder:	niall hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	778410000
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	799305984
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	855855025
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	855855025
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Advenced
+Account Number:	857201284
+Account Holder:	Carmen Rodriguez
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	907816900
+Account Holder:	niall hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	572070724
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	674700625
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	713424100
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	734681025
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	734681025
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	735928384
+Account Holder:	Carmen Rodriguez
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	Basic
+Account Number:	114361636
+Account Holder:	Niall Hogan
+Month Opened:	April
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	basic
+Account Number:	214212496
+Account Holder:	niall hogan
+Month Opened:	May
+Year Opened:	2020
+Account Status:	A
+
+Account Type:	b
+Account Number:	506250000
+Account Holder:	Niall Hogan
+Month Opened:	October
+Year Opened:	2020
+Account Status:	A
+
